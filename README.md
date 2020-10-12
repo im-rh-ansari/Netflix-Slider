@@ -1,3 +1,1 @@
-# An example of the Netflix slider
-
-![preview](netflix-slider.png)
+# A basic netflix slider with description and on hover events made using ReactJS
